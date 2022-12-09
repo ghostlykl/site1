@@ -8,89 +8,114 @@ $this->title = 'My Yii Application';
 <link rel="stylesheet" href="C:\xampp\htdocs\site\web\css\site.css">
 
 <body>
-
     <div class="logo">
-        <h1>Название галереии</h1>
+        <h1>Название галереи</h1>
     </div>
-
     <div class="container">
         <div class="row align-items-start">
             <div class="col">
-                <img src="images/foto.png" class="img" alt="Название альбома">
-                <div class="albom">Название альбома</div>
+                <button>
+                    <div class="card">
+                        <img src="images/foto.png" class="card-img-top" alt="Название альбома">
+                        <div class="card-body">
+                            <h5 class="card-title">Название альбома</h5>
+                        </div>
+                    </div>
+                </button>
+                <button>
+                    <div class="card">
+                        <img src="images/foto.png" class="card-img-top" alt="Название альбома">
+                        <div class="card-body">
+                            <h5 class="card-title">Название альбома</h5>
+                        </div>
+                    </div>
+                </button>
+                <button>
+                    <div class="card">
+                        <img src="images/foto.png" class="card-img-top" alt="Название альбома">
+                        <div class="card-body">
+                            <h5 class="card-title">Название альбома</h5>
+                        </div>
+                    </div>
+                </button>
+                <button>
+                    <div class="card">
+                        <img src="images/foto.png" class="card-img-top" alt="Название альбома">
+                        <div class="card-body">
+                            <h5 class="card-title">Название альбома</h5>
+                        </div>
+                    </div>
+                </button>
             </div>
             <div class="col">
-                <img src="images/foto.png" class="img" alt="Название альбома">
-                <div class="albom">Название альбома</div>
+            <button>
+                    <div class="card">
+                        <img src="images/foto.png" class="card-img-top" alt="Название альбома">
+                        <div class="card-body">
+                            <h5 class="card-title">Название альбома</h5>
+                        </div>
+                    </div>
+                </button>
+                <button>
+                    <div class="card">
+                        <img src="images/foto.png" class="card-img-top" alt="Название альбома">
+                        <div class="card-body">
+                            <h5 class="card-title">Название альбома</h5>
+                        </div>
+                    </div>
+                </button>
+                <button>
+                    <div class="card">
+                        <img src="images/foto.png" class="card-img-top" alt="Название альбома">
+                        <div class="card-body">
+                            <h5 class="card-title">Название альбома</h5>
+                        </div>
+                    </div>
+                </button>
+                <button>
+                    <div class="card">
+                        <img src="images/foto.png" class="card-img-top" alt="Название альбома">
+                        <div class="card-body">
+                            <h5 class="card-title">Название альбома</h5>
+                        </div>
+                    </div>
+                </button>
             </div>
             <div class="col">
-                <img src="images/foto.png" class="img" alt="Название альбома">
-                <div class="albom">Название альбома</div>
-            </div>
-        </div>
-        <div class="row align-items-center">
-            <div class="col">
-                <img src="images/foto.png" class="img" alt="Название альбома">
-                <div class="albom">Название альбома</div>
-            </div>
-            <div class="col">
-                <img src="images/foto.png" class="img" alt="Название альбома">
-                <div class="albom">Название альбома</div>
-            </div>
-            <div class="col">
-                <img src="images/foto.png" class="img" alt="Название альбома">
-                <div class="albom">Название альбома</div>
-            </div>
-        </div>
-        <div class="row align-items-end">
-            <div class="col">
-                <img src="images/foto.png" class="img" alt="Название альбома">
-                <div class="albom">Название альбома</div>
-            </div>
-            <div class="col">
-                <img src="images/foto.png" class="img" alt="Название альбома">
-                <div class="albom">Название альбома</div>
-            </div>
-            <div class="col">
-                <img src="images/foto.png" class="img" alt="Название альбома">
-                <div class="albom">Название альбома</div>
+            <button>
+                    <div class="card">
+                        <img src="images/foto.png" class="card-img-top" alt="Название альбома">
+                        <div class="card-body">
+                            <h5 class="card-title">Название альбома</h5>
+                        </div>
+                    </div>
+                </button>
+                <button>
+                    <div class="card">
+                        <img src="images/foto.png" class="card-img-top" alt="Название альбома">
+                        <div class="card-body">
+                            <h5 class="card-title">Название альбома</h5>
+                        </div>
+                    </div>
+                </button>
+                <button>
+                    <div class="card">
+                        <img src="images/foto.png" class="card-img-top" alt="Название альбома">
+                        <div class="card-body">
+                            <h5 class="card-title">Название альбома</h5>
+                        </div>
+                    </div>
+                </button>
+                <button>
+                    <div class="card">
+                        <img src="images/foto.png" class="card-img-top" alt="Название альбома">
+                        <div class="card-body">
+                            <h5 class="card-title">Название альбома</h5>
+                        </div>
+                    </div>
+                </button>
             </div>
         </div>
     </div>
 
-
-    <div class="container">
-        <div class="row align-items-start">
-            <div class="col">
-                <img src="images/foto.png" class="img">
-            </div>
-            <div class="col">
-                <img src="images/foto.png" class="img">
-            </div>
-            <div class="col">
-                <img src="images/foto.png" class="img">
-            </div>
-        </div>
-        <div class="row align-items-center">
-            <div class="col">
-                <img src="images/foto.png" class="img">
-            </div>
-            <div class="col">
-                <img src="images/foto.png" class="img">
-            </div>
-            <div class="col">
-                <img src="images/foto.png" class="img">
-            </div>
-        </div>
-        <div class="row align-items-end">
-            <div class="col">
-                <img src="images/foto.png" class="img">
-            </div>
-            <div class="col">
-                <img src="images/foto.png" class="img">
-            </div>
-            <div class="col">
-                <img src="images/foto.png" class="img">
-            </div>
-        </div>
-    </div>
+</body>
