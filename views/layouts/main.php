@@ -20,6 +20,8 @@ $this->registerMetaTag(['name' => 'keywords', 'content' => $this->params['meta_k
 $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => Yii::getAlias('@web/favicon.ico')]);
 ?>
 <?php $this->beginPage() ?>
+<?php Header ("Content-type: text/css; charset=utf-8");?> 
+<link rel="stylesheet" href="C:\xampp\htdocs\site\web\css\site.css">
 <!DOCTYPE html>
 <html lang="<?= Yii::$app->language ?>" class="h-100">
 <head>
