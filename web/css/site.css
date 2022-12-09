@@ -82,3 +82,33 @@ a.desc:after {
 .nav > li > form > button.logout:focus {
     outline: none;
 }
+
+.logo {
+    font: 12pt;
+    text-align: center;
+}
+
+.img {
+    width: 300px;
+    height: 300px;
+    margin-top:30px;
+    margin-bottom: 60px;
+
+}
+
+div#albom {
+    position: relative;
+
+}
+
+.albom {
+    position: absolute;
+    top: 50%;
+    text-transform: uppercase;
+    color: rgb(0, 0, 0);
+    width: 300px;
+    background: #a7a7a794;
+    padding: 10px;
+    text-align: center;
+    font: 12pt;
+}
